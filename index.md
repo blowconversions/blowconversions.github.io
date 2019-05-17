@@ -6,6 +6,8 @@ This is the accompanying page of the paper "Blow: a single-scale hyperconditione
 
 End-to-end models for raw audio generation are a challenge, specially if they have to work with non-parallel data, which is a desirable setup in many situations. Voice conversion, in which a model has to impersonate a speaker in a recording, is one of those situations. In this paper, we propose Blow, a single-scale normalizing flow using hypernetwork conditioning to perform many-to-many voice conversion between raw audio. Blow is trained end-to-end, with non-parallel data, on a frame-by-frame basis using a single speaker identifier. We show that Blow compares favorably to existing flow-based architectures and other competitive baselines, obtaining improvements in both objective and subjective scores. We further assess the impact of its main components with an ablation study, and quantify a number of properties like the necessary amount of training data or the preference for source or target speakers.
 
+![](blow_blocks.png)
+
 ## Reference
 
 (Omitted for blind review)
