@@ -14,17 +14,23 @@ This is the accompanying page of the paper "Blow: a single-scale hyperconditione
 
 Source:
 <html>
-  <audio controls><source src="p297_06758.wav"></audio>
+  <audio controls>
+    <source src="p297_06758.wav">
+  </audio>
 </html>
 
 Target:
 <html>
-  <audio controls><source src="p283_02612.wav"></audio>
+  <audio controls>
+    <source src="p283_02612.wav">
+  </audio>
 </html>
 
 Conversion:
 <html>
-  <audio controls><source src="p297_06758_to_p283.wav"></audio>
+  <audio controls>
+    <source src="p297_06758_to_p283.wav">
+  </audio>
 </html>
 
 ### Example 2
