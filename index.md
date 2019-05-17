@@ -12,10 +12,10 @@ This is the accompanying page of the paper "Blow: a single-scale hyperconditione
 
 ### Example 1
 
-Source:  <html><audio controls><source src="p225_01111.wav"></audio></html> 
+Source: <audio controls><source src="p225_01111.wav"></audio>
 
-Target:  <html><audio controls><source src="p225_01111.wav"></audio></html> 
+Target: <audio controls><source src="p225_01111.wav"></audio>
 
-Conversion:  <html><audio controls><source src="p225_01111.wav"></audio></html> 
+Conversion: <audio controls><source src="p225_01111.wav"></audio>
 
 ### Example 2
