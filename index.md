@@ -10,7 +10,7 @@ This is the accompanying page of the paper "Blow: a single-scale hyperconditione
 
 ## Examples
 
-Source:<html><audio controls><source src="p225_01111.wav"></audio></html>
+<html><div><p>Source:</p><audio controls><source src="p225_01111.wav"></audio></div></html>
 
 Target:<html><audio controls><source src="p225_01111.wav"></audio></html>
 
