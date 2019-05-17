@@ -1,16 +1,27 @@
-# Blow Demo
+# Blow: a single-scale hyperconditioned flow for non-parallel raw-audio voice conversion
 
-This is the demonstration page of the paper "Blow: many-block hyper-conditioned flows for non-parallel audio conversion", where we show some audio conversion examples.
+This is the accompanying page of the paper "Blow: a single-scale hyperconditioned flow for non-parallel raw-audio voice conversion", where we show some audio conversion examples.
 
-## Voice conversion
+## Abstract
 
+## Reference
+
+(Omitted for blind review)
+
+## Examples
+
+Source:
 <html>
 <audio controls><source src="p225_01111.wav"></audio>
 </html>
 
-## Generalized speech enhancement
+Target:
+<html>
+<audio controls><source src="p225_01111.wav"></audio>
+</html>
 
-## Instrument conversion
-
-## Musical note transposition
+Conversion:
+<html>
+<audio controls><source src="p225_01111.wav"></audio>
+</html>
 
