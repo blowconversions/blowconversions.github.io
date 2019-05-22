@@ -1,6 +1,6 @@
 # Blow Conversions
 
-This is the accompanying page of the paper "Blow: a single-scale hyperconditioned flow for non-parallel raw-audio voice conversion", where we show some audio conversion examples.
+This is the demonstration page of the paper "Blow: a single-scale hyperconditioned flow for non-parallel raw-audio voice conversion", where we show some audio conversion examples.
 
 ## Summary
 
