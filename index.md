@@ -18,7 +18,7 @@ J. Serrà, S. Pascual, & C. Segura (2019). **Blow: a single-scale hypercondition
 @article{Serra19ARXIV,
 author = {Serr{\`{a}}, J. and Pascual, S. and Segura, C.},
 journal = {ArXiv},
-title = {{Blow: a single-scale hyperconditioned flow for non-parallel raw-audio voice conversion}},
+title = {Blow: a single-scale hyperconditioned flow for non-parallel raw-audio voice conversion},
 volume = {1906.00794},
 year = {2019}
 }
@@ -26,9 +26,9 @@ year = {2019}
 
 ### Links
 
-Paper: https://arxiv.org/abs/1906.00794 (latest version)
+Paper: <https://arxiv.org/abs/1906.00794> (latest version)
 
-Code: https://github.com/joansj/blow
+Code: <https://github.com/joansj/blow>
 
 ## Examples
 
