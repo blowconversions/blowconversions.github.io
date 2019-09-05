@@ -16,6 +16,8 @@ J. Serrà, S. Pascual, & C. Segura (2019). **Blow: a single-scale hypercondition
 
 Paper: <https://arxiv.org/abs/1906.00794>
 
+Slides: <https://blowconversions.github.io/joanserra-blow-compressed.pdf> 
+
 Code: <https://github.com/joansj/blow>
 
 ## Examples
