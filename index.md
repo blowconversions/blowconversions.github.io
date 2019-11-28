@@ -18,6 +18,8 @@ Paper: <https://arxiv.org/abs/1906.00794>
 
 Slides: <https://blowconversions.github.io/joanserra-blow-compressed.pdf> 
 
+Poster: <https://blowconversions.github.io/blow_neurips19.pdf>
+
 Code: <https://github.com/joansj/blow>
 
 ## Examples
@@ -254,4 +256,4 @@ Conversion:
 
 ---
 
-_Last update: May 2019_
+_Last update: Nov 2019_
